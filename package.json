@@ -1,8 +1,8 @@
 {
   "name": "agent-discover",
-  "version": "1.4.0",
+  "version": "1.4.0-lineaje-01",
   "mcpName": "io.github.keshrath/agent-discover",
-  "description": "MCP server registry and marketplace — discover, install, activate, and manage MCP tools on demand",
+  "description": "MCP server registry and marketplace \u2014 discover, install, activate, and manage MCP tools on demand",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -97,9 +97,15 @@
     "LICENSE"
   ],
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/keshrath/agent-discover.git"
+    "url": "https://github.com/lineaje-labs-gos/keshrath-agent-discover"
   },
   "homepage": "https://github.com/keshrath/agent-discover#readme",
   "bugs": {
