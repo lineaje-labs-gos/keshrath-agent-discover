@@ -55,7 +55,7 @@
     "agent-common": "^1.1.0",
     "better-sqlite3": "12.8.0",
     "morphdom": "^2.7.8",
-    "ws": "8.20.0"
+    "ws": ">=8.21.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -110,5 +110,11 @@
   "homepage": "https://github.com/keshrath/agent-discover#readme",
   "bugs": {
     "url": "https://github.com/keshrath/agent-discover/issues"
+  },
+  "overrides": {
+    "ws": ">=8.21.3"
+  },
+  "resolutions": {
+    "ws": ">=8.21.3"
   }
 }
