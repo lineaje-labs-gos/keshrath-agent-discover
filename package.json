@@ -112,9 +112,15 @@
     "url": "https://github.com/keshrath/agent-discover/issues"
   },
   "overrides": {
-    "ws": ">=8.21.3"
+    "ws": ">=8.21.3",
+    "hono": ">=4.13.1",
+    "ip-address": ">=10.5.0",
+    "fast-uri": ">=3.1.5"
   },
   "resolutions": {
-    "ws": ">=8.21.3"
+    "ws": ">=8.21.3",
+    "hono": ">=4.13.1",
+    "ip-address": ">=10.5.0",
+    "fast-uri": ">=3.1.5"
   }
 }
